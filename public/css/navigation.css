@@ -1,0 +1,6 @@
+a:hover {color: #002554; }
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 70px;
+}
